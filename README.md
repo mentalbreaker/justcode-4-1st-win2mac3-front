@@ -24,7 +24,7 @@
 상품의 다양한 옵션과 카테고리들을 어떻게 다루게 될지, 어떤 식으로 데이터가 이동하는지를 탐구하기 위해 이 사이트를 선정했습니다.
 
 # 데모 화면
-<iframe width="1422" height="627" src="https://www.youtube.com/embed/TkbnRMxwWDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![위코뷰 시연영상](https://img.youtube.com/vi/TkbnRMxwWDI/0.jpg)
 시연 화면 : https://www.youtube.com/watch?v=TkbnRMxwWDI
 
 # 사이트 주소

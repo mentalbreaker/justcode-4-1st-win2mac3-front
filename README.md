@@ -15,8 +15,8 @@
 
 # github 링크
 
-[프론트엔드](https://github.com/wecode-bootcamp-korea/justcode-4-1st-win2mac3-front.git)
-[백엔드](https://github.com/wecode-bootcamp-korea/justcode-4-1st-win2mac3-back.git)
+1. [프론트엔드](https://github.com/wecode-bootcamp-korea/justcode-4-1st-win2mac3-front.git)
+2. [백엔드](https://github.com/wecode-bootcamp-korea/justcode-4-1st-win2mac3-back.git)
 
 # 프로젝트 선정이유
 

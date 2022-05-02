@@ -24,7 +24,7 @@
 상품의 다양한 옵션과 카테고리들을 어떻게 다루게 될지, 어떤 식으로 데이터가 이동하는지를 탐구하기 위해 이 사이트를 선정했습니다.
 
 # 데모 화면
-![위코뷰 시연영상](https://img.youtube.com/vi/TkbnRMxwWDI/0.jpg)
+![위코뷰 시연영상](https://github.com/mentalbreaker/justcode-4-1st-win2mac3-front/blob/main/public/images/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202022-05-02%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%205.57.39.png?raw=true)
 시연 화면 : https://www.youtube.com/watch?v=TkbnRMxwWDI
 
 # 사이트 주소
